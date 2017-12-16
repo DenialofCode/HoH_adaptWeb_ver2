@@ -1,0 +1,15 @@
+#####################################################################
+                     imported text (Titles)
+
+HTML: <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+
+CSS: font-family: 'Lobster', cursive;
+
+######################################################################
+		     imported text (main text)
+
+HTML:<link href="https://fonts.googleapis.com/css?family=Zilla+Slab" rel="stylesheet">
+
+CSS:font-family: 'Zilla Slab', serif;
+
+######################################################################
